@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ismael <img alt="gif" src="https://c.tenor.com/-AyTtMgs2mMAAAAj/nyan-cat-nyan.gif" width="100" height="100" /></h1> 
+<h1 align="center">Hi 👋, I'm Ismael <img align="right" src="https://c.tenor.com/DZKcXvpu-d8AAAAj/bongo-cat-cute-png.gif" autoplay witdh="40"= height="40"/></h1>
 <h3 align="center">Passionate about web design and cybersecurity!</h3>
 
 - 🌱 I’m currently learning **Angular, Laravel, TypeScript**
