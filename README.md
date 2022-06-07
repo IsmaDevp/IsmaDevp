@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ismael</h1> ![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](http://clipart-library.com/images/6Tro9gA7c.gif))
+<h1 align="center">Hi 👋, I'm Ismael</h1> <p><img src="http://clipart-library.com/images/6Tro9gA7c.gif" width="500" height="250" /></p>
 <h3 align="center">Passionate about web design and cybersecurity!</h3>
 
 - 🌱 I’m currently learning **Angular, Laravel, TypeScript**
