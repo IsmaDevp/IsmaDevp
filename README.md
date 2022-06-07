@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ismael <img align="right" src="https://c.tenor.com/DZKcXvpu-d8AAAAj/bongo-cat-cute-png.gif" autoplay witdh="40"= height="40"/></h1>
+<h1 align="center">Hi 👋, I'm Ismael <img align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/19429/friendly-ginger-cat-clipart-xl.png" autoplay witdh="50"= height="50"/></h1>
 <h3 align="center">Passionate about web design and cybersecurity!</h3>
 
 - 🌱 I’m currently learning **Angular, Laravel, TypeScript**
