@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ismadevp@gmail.com**
 
-- 👨‍💻 Working in <a href="https://ehidra.com/">eHidra</>
+- 👨‍💻 Working in <a href="https://ehidra.com">eHidra</a>
 
 - ⚡ Fun fact **Like many, I like the world of video games, since I was 7 years old I play them. I am passionate about the world of web programming and cybersecurity, obviously, always eager to continue learning.**
 
