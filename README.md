@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ismael <img align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/19429/friendly-ginger-cat-clipart-xl.png" autoplay witdh="50"= height="50"/> </h1>
 <h3 align="center">Passionate about web design and cybersecurity!</h3>
 
+- 👨‍💻 Working in <a href="https://ehidra.com">eHidra</a>
+
 - 🌱 I’m currently learning **Angular, Laravel, Tailwindcss**
 
 - 💬 Ask me about **HTML, CSS, Javascript, PHP, Wordpress**
 
 - 📫 How to reach me **ismadevp@gmail.com**
 
-- 👨‍💻 Working in <a href="https://ehidra.com">eHidra</a>
 
 - ⚡ Fun fact **Like many, I like the world of video games, since I was 7 years old I play them. I am passionate about the world of web programming and cybersecurity, obviously, always eager to continue learning.**
 
