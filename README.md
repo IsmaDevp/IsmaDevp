@@ -3,9 +3,9 @@
 
 - 👨‍💻 Working in <a href="https://ehidra.com">eHidra</a>
 
-- 🌱 I’m currently learning **Angular, Laravel, Tailwindcss**
+- 🌱 I’m currently learning **Flutter, Laravel, Tailwindcss**
 
-- 💬 Ask me about **HTML, CSS, Javascript, PHP, Wordpress**
+- 💬 Ask me about **Tailwindcss, Livewire, AplineJS, HTML, CSS, Javascript, PHP, Wordpress**
 
 - 📫 How to reach me **ismadevp@gmail.com**
 
